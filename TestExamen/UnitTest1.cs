@@ -6,6 +6,7 @@ namespace TestExamen {
             //Codigo del participante 2
             //Mas codigo e pruebas etc etc mayuculas
             //error de tipado
+            int mugre = 0;
         }
     }
 }
